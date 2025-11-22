@@ -135,8 +135,8 @@ This project is open-source and available under the MIT License.
 
 **Sarthak Nagave**
 
-* GitHub: [Sarthak-Nagave](https://github.com/Sarthak-Nagave)
-* Email: `sarthaknagave7.com`
+* GitHub: [Sarthak-Nagave](https://github.com/Sarthak-Nagave) [samadhan-Kanade](https://github.com/Samadhan-Kanade)
+* Email: `sarthaknagave7@gmail.com' 'kanadesamadhan15@gmail.com'
 
 ```
 
